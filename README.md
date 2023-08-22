@@ -2,6 +2,7 @@
 <h3 align="center"> An experienced Product Consultant, Process Specialist, IT Auditor, GRC Consultant, Security Architect with robust knowledge in software architecture and GRC 👨‍💻 working since 2014</h3>
 <p align="left"> <img src="https://miro.medium.com/v2/1*6ge3gXH51icSvin7oV-4-Q.png" alt="raamanalyst" />   </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="raamanalyst" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raamanalyst" alt="raamanalyst" /></a> </p>
@@ -9,6 +10,8 @@
 - 🔭 I’m currently working on [DiceCRM](https://github.com/RaamAnalyst/DiceCRM), [MedCodeProx](https://github.com/RaamAnalyst/MedCodeProx)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaamAnalyst](https://github.com/RaamAnalyst)
+
+- 🔭 My Certifications include ***Agile Scrum Master, Product Owner, Cloud Solutions Architect, ISO 22301 Lead Implementer, ISO 27001 Lead Auditor, Lean Practitioner, and Lean Six Sigma Green Belt***
 
 - 📝 I regularly write articles on [https://ramananproductstrategist.medium.com/](https://ramananproductstrategist.medium.com/)
 
