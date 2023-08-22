@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaamAnalyst](https://github.com/RaamAnalyst)
 
-- 🔭 My Certifications include ***Agile Scrum Master, Product Owner, Cloud Solutions Architect, ISO 22301 Lead Implementer, ISO 27001 Lead Auditor, Lean Practitioner, and Lean Six Sigma Green Belt***
+- 🔭 I'm a Certified ***Agile Scrum Master, Product Owner, Cloud Solutions Architect, ISO 22301 Lead Implementer, ISO 27001 Lead Auditor, Lean Practitioner, and Lean Six Sigma Green Belt***
 
 - 📝 I regularly write articles on [https://ramananproductstrategist.medium.com/](https://ramananproductstrategist.medium.com/)
 
