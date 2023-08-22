@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raamanalyst" alt="raamanalyst" /></a> </p>
 
-- 🔭 I’m currently working on [DiceCRM](https://github.com/RaamAnalyst/DiceCRM)
+- 🔭 I’m currently working on [DiceCRM](https://github.com/RaamAnalyst/DiceCRM), [MedCodeProx](https://github.com/RaamAnalyst/MedCodeProx)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaamAnalyst](https://github.com/RaamAnalyst)
 
