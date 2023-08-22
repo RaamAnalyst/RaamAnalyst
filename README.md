@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramanan Subramanian</h1>
-<h3 align="center"> An experienced Product Consultant, Process Specialist, IT Auditor, GRC Consultant, Security Architect with knowledge in robust software architecture 👨‍💻 working since 2014</h3>
+<h3 align="center"> An experienced Product Consultant, Process Specialist, IT Auditor, GRC Consultant, Security Architect with robust knowledge in software architecture and GRC 👨‍💻 working since 2014</h3>
 <p align="left"> <img src="https://miro.medium.com/v2/1*6ge3gXH51icSvin7oV-4-Q.png" alt="raamanalyst" />   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="raamanalyst" /> </p>
