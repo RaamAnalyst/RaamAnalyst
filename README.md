@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramanan Subramanian</h1>
 <h3 align="center">A passionate Product Strategist and Consultant from India</h3>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=raamanalyst&label=Profile%20views&color=0e75b6&style=flat](https://www.netsolutions.com/insights/wp-content/uploads/2022/06/how-to-become-a-software-developer.webp)" alt="raamanalyst" />   </p>
+<p align="left"> <img src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" alt="raamanalyst" />   </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="raamanalyst" /> </p>
 
