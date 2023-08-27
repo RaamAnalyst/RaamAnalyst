@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramanan Subramanian</h1>
-<h3 align="center"> An experienced Product Consultant, Process Specialist, IT Auditor, GRC Consultant, Security Architect with robust knowledge in software architecture and GRC 👨‍💻 working since 2014</h3>
+<h3 align="center"> An experienced Consultant with robust knowledge in Software Architecture, Products, Process, and GRC 👨‍💻 working since 2014</h3>
 <p align="left"> <img src="https://miro.medium.com/v2/1*6ge3gXH51icSvin7oV-4-Q.png" alt="raamanalyst" />   </p>
 
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaamAnalyst](https://github.com/RaamAnalyst)
 
-- 🔭 I'm a Certified ***Agile Scrum Master, Product Owner, Cloud Solutions Architect, ISO 22301 Lead Implementer, ISO 27001 Lead Auditor, Lean Practitioner, and Lean Six Sigma Green Belt***
+- 🔭 I'm a Certified ***Agile Scrum Master, Product Owner, Cloud Solutions Architect, ISO 27001 Lead Auditor, ISO 22301 Lead Implementer, Lean Practitioner, and Lean Six Sigma Green Belt***
 
 - 📝 I regularly write articles on [https://ramananproductstrategist.medium.com/](https://ramananproductstrategist.medium.com/)
 
