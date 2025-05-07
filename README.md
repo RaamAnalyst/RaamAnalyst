@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://ramananproductstrategist.medium.com/](https://ramananproductstrategist.medium.com/)
 
-- 💬 Ask me about **Product Management, Agile Methodologies, Cloud Solutions, Penetration Testing, ISO Standards and Regulations, GRC (Governance, Risk, Compliance), Cybersecurity, Content Management System, Technical Documentation, Project Management, Six Sigma Implementation, Security Architecture, Automation, and Process Improvement**
+- 💬 Ask me about **Product Management, Agile Methodologies, Cloud Solutions and Security Architect, Penetration Testing, ISO Standards and Regulations, GRC (Governance, Risk, Compliance), Cybersecurity, Content Management System, Technical Documentation, Project Management, Six Sigma Implementation, Security Architecture, Automation, and Process Improvement**
 
 - 📫 How to reach me **ramananpmo@gmail.com**
 
